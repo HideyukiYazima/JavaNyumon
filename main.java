@@ -47,4 +47,25 @@ class main {
   }
 }
 
+class Main {
+  public static void main(String[] args) {
+    int number = 11;
+    String text = "夢";
+    System.out.println(number);
+    System.out.println(text);
+    number = 9;
+    System.out.println(number);
+    text = "幻想";
+    System.out.println(text);
+    
+  }
+}
 
+class Main {
+  public static void main(String[] args) {
+    int number = 3;
+    System.out.println(number);
+    number = number + 7; 
+    System.out.println(number);
+  }
+}
