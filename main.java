@@ -80,3 +80,14 @@ class Main {
   }
 }
 
+class Main {
+  public static void main(String[] args) {
+    int length = 6;
+    int height = 8;
+    
+    System.out.println();
+    
+    System.out.println();
+  }
+}
+
