@@ -85,9 +85,14 @@ class Main {
     int length = 6;
     int height = 8;
     
-    System.out.println();
+    int rectangleArea = length * height;
     
-    System.out.println();
+    System.out.println(rectangleArea);
+    
+    int triangleArea = length * height / 2;
+    
+    System.out.println(triangleArea);
+
   }
 }
 
