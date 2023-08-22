@@ -96,3 +96,36 @@ class Main {
   }
 }
 
+
+class Main {
+  public static void main(String[] args) {
+    double number1 = 8.5;
+    
+    double number2 = 3.4;
+    
+    System.out.println(number1 + number);
+    
+    System.out.println(number1 - number2);
+
+  }
+}
+
+
+
+
+class Main {
+  public static void main(String[] args) {
+    int month = 12;
+    int date = 31;
+    
+    System.out.println(month + "月" + date + "日");
+    
+    System.out.println(7 / 2);
+    
+
+    System.out.println(7.0 / 2.0);
+    
+    System.out.println(7 / 2.0);
+    
+  }
+}
